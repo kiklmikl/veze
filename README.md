@@ -1,2 +1,3 @@
 # veze
 hanojskeVeze
+ prva zmena
